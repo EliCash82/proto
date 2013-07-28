@@ -1,0 +1,45 @@
++++++
+Proto by Anderson Evans
+MALS Thesis / CUNY Graduate Center
+Advisor Matthew Gold
++++++
+
+DATE: 7/26/13
+
+What is Proto?
+Proto is the working title of this thesis with a Digital Humanities concentration.  The attempt is to write a Python code that shares established canonical interface with egodic texts from the 1980s.  
+
+Purpose
+To template a very simple example of a Python based DH project in a form that can be malleable (i.o.w. forked), useful, and engaging.  What is the result of transforming a literary text from the 19th Century into something interactive?  Can such a project cement pedagogy from within its structure?
+
+Possible texts:
+Caleb Williams
+Pros: First Adventure Novel, Familiar with the text
+Cons: Not sci fi which might be more in tune with the ergodic theme
+
+VRIL - The Coming Race
+Pros: Interesting proto sci-fi story
+Cons: Charged revision in present day [could work as a pro, but could be a strong con]
+
+The Machine Stops
+Pros: Good proto sci-fi narrative, could be made ludic
+Cons: Less familiar with text, too short and minimal for longer supplemental research paper.
+
+MORE: Still ruminating on text choices, doing some reading through research specifically about 19th century literary scene and rules of proto-science fiction
+
+Thinking about maybe even Twain... curious about researching into what influenced his time travel and trip to space narratives... even The Mysterious Stranger has a really modern sci-fi bend to it, very familiar with multiple manuscripts of said text.  
+
+++++++
+
+DATE: 7/27/13
+
+Things I want in "text adventure":
+Combat Engine: A way for battles to take place within the narrative, and experience points gained, and maybe two or three skills. [infinite escape skill] [fighting++] [magic]
+
+Library: I think it would be interesting if I embedded pieces of information that required the user to go through an entire text (i.e., program an 1800s Bible, alchemical text, newspaper, penny dreadful, etc)
+
+----
+
+Thinking more and more about using Caleb Williams.  It just seems like it would translate better, in that book there are definitive protagonist running from antagonist/henchmen.  It is just a narrative that seems like it could be part of an engaging ergodic text.  Without a combat system I am finding it hard to think of a way to keep present day audiences engaged.
+
+MUD? I think a MUD could be fun, since that would allow multiple users able to play, but it seems that that would be a more difficult endeavour.  What I want to do is research how I could best program this while making a transition to MUD engine less time consuming in the long run.
