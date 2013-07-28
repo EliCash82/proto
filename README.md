@@ -8,4 +8,6 @@
 
 <p>A thesis project involving the transformation of William Godwin's late-18th Century novel, Things as They Are; or, The Adventures of Caleb Williams into ergodic text adventure written in Python.</p>
 
-<p>See "notes.txt" to follow the project's progress.</p>
+<p>See <a href="https://raw.github.com/EliCash82/proto/master/notes.txt">notes.txt</a> to follow the project's progress.</p>
+
+<p>See <a href="http://andersondh2.commons.gc.cuny.edu/"></a> for Anderson Evans' CUNY DH blog.
