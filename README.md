@@ -10,4 +10,4 @@
 
 <p>See <a href="https://raw.github.com/EliCash82/proto/master/notes.txt">notes.txt</a> to follow the project's progress.</p>
 
-<p>See <a href="http://andersondh2.commons.gc.cuny.edu/"></a> for Anderson Evans' CUNY DH blog.
+<p>See <a href="http://andersondh2.commons.gc.cuny.edu/">Anderson's CUNY DH blog</a> for further DH explorations/commentary.
