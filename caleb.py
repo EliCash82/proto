@@ -23,6 +23,7 @@ def wash_room():
 
 def dead(why):
     print why, "Thanks for playing!"
+    print  "If you enjoyed yourself consider donating bitcoin to this address: 18kKvHyye6cmQ6yUjUtHZvmZrhvmvnzkxo"
     exit(0)
     
 def start():
