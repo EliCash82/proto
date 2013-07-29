@@ -43,3 +43,30 @@ Library: I think it would be interesting if I embedded pieces of information tha
 Thinking more and more about using Caleb Williams.  It just seems like it would translate better, in that book there are definitive protagonist running from antagonist/henchmen.  It is just a narrative that seems like it could be part of an engaging ergodic text.  Without a combat system I am finding it hard to think of a way to keep present day audiences engaged.
 
 MUD? I think a MUD could be fun, since that would allow multiple users able to play, but it seems that that would be a more difficult endeavour.  What I want to do is research how I could best program this while making a transition to MUD engine less time consuming in the long run.
+
+++++++
+
+Date 7/29/13
+
+So I've jumped into using Caleb Williams as my foundational text.  Thinking about scrapping the whole "Proto" name now that I'm moving away from proto Sci Fi.  The issue was I just was not familiar enough with the texts, and I was worried about dedicating a lot of time to something I don't really care for.  I know the whole Shelley, Godwin, Byron group are often over-examined, but I just haven't read any other 18th century texts that I feel I could add a ludic layer to.  Caleb Williams is full of suspense and mystery... and suspense is a rare thing in an 18th Century narrative (at least from what I've perused).
+
+I've started writing Python code -- VERY simple code.  I'm hoping I can grasp how to sort of combine some roguelike elements to text-based dungeon crawling... this may be out of my depth, but even if I can only make two projects side by side, I imagine I can find some help in cobbling them together.
+
+Have been playing the following games:
+
+Roguelike:
+Rogue - MSDOS version
+
+Text Adventure:
+Zork
+Rendevous with Rama
+Collossal Cave Adventure
+
+It is insane how much more playable the Roguelike game is.  Just the feeling of movement really makes more sense.  I'm starting to think that my foundation should be a roguelike game.  I'm seeing a lot about this python library called "libtcode" in tutorials, will probably play around with this.  I would need to know how much text I would be able to use.  My only prior experience with roguelike games comes from "ZZT" - a game maker for DOS that used ASCII characters to build games that look and play very much like a roguegame.  However I would not want to build on ZZT, as there is close to zero coding pedagogy to be derived from it[sidenote: I think this is the issue with a lot of entry level languages for kids.  They have a glass ceiling as one can never move into higher level techniques...that can be argued and is not made clear here... I DIGRESS!]
+
+What excites me about this libtcode is some of the projects that have been made, some of them look like well produced SNES games (my favorite console), some have the "old school" ASCI look, but are remakes of some classic games that are VERY complex.
+
+Anyway, need to start looking over some tutorials and see if a text-heavy pseudo-roguelike is even possible before I get too excited.
+
+++++++
+
