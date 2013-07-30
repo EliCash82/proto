@@ -1,6 +1,8 @@
 #ROOM 1: The library
 
-#This is my skeletal structure for the first room in the game. There is an overhead camera view of the room with a single desk on the right side of the screen.  I will layer images over it and add a protagonist in due time.
+#This is my skeletal structure for the first room in the game. There is an overhead camera view 
+#of the room with a single desk on the right side of the screen.  I will layer images over it
+# and add a protagonist in due time.
 
 #I have to run a specific python to get pygame module to work
 #so when running programs instead of just typing "python" before the executable, type "python2.7-32" then executable
