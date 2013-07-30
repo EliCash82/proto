@@ -1,0 +1,35 @@
+#import pygame library
+import pygame
+
+#Initialize pygame engine
+pygame.init()
+
+#Define colors
+black = (   0,   0,   0)
+white = ( 255, 255, 255)
+green = (   0, 255,   0)
+red   = ( 255,   0,   0)
+
+#set screen size 700 is width and 500 is height
+
+size=[700, 500]
+screen=pygame.display.set_mode(size)
+
+pygame.display.set_caption("Anderson is the best looking dude, yo.")
+
+#loop until user closes
+done=False
+
+#manage screen update time
+clock=pygame.time.Clock()
+
+#Main Program Loop!!!!!!!!!!!!!
+
+while done==False:
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            done=True
+
+    clock.tick(20)
+
+pygame.quit ()
