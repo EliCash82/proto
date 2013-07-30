@@ -70,3 +70,39 @@ Anyway, need to start looking over some tutorials and see if a text-heavy pseudo
 
 ++++++
 
+7/30/13
+
+Oooof, so yesterday proved to be an exhausting sifting through of options to a point where I ended up just playing a few old Dos Games on top of a desktop with about 500 windows opened.
+
+My last talk with my advisor, the key issue seemed to be "Work on your elevator pitch"
+
+There are a lot of options out there, and instead of jumping around from option to option, I need to know WHY I might choose one of those options.
+
+My good friend, an ACTUAL programmer (you know, with talent and a portfolio) swears by writing out everything he is doing on paper.  I try this method and find myself often drawing comic book characters instead of pseudocode.
+
+The way I look at this is the way I look at writing a novel.  I seem to be having the same issues I had when writing my novel (it was a failure or I'd show you where you could purchase and read it!) and that issue is finding an idea and sticking with it.
+
+Well, I'm still not 100 percent sold on simply reorganizing Caleb Williams into an ergodic text and maybe throwing in some dungeon crawler derivitive alongside.
+
+I first need to establish a canvas, set up a way to write something equivalent to a short story before I set about a huge undertaking of recalibrating a novel sized manuscript.
+
+So here are the precise parameters I want to set up:
+
+1 Room
+A library - 500X700px screen made up of 
+  Bookshelves
+  red carpet
+  desk in center of room
+A protagonist
+  can move up, down, left, right
+  can not move through bookshelves or desk
+
+Thats it, no wondering about how long I can make this
+No retranscribing an entire novel and then thinking about how I can make it ludic
+I haven't done anything like this in a long while and I need to give myself some practice.  I can worry about bigger things at a later point.  Must walk before I run.
+
+Now lets stop trying to find the most esoteric method for making an esoteric style of game, open up pygame, and wet our feet...
+
+Then I can log what is most challenging, then perhaps add some dialog when character touches each bookshelf.
+
+I realize I made that big point about an elevator pitch, and I'm nowhere close to it.  Some people have a problem getting beyond the elevator pitch, I have problems making enough of a single point.  Whatever, I think an elaborate logging of these experiences is a good thing, especially if at the end of the road I have something worth a damn.
