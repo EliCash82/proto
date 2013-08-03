@@ -106,3 +106,39 @@ Now lets stop trying to find the most esoteric method for making an esoteric sty
 Then I can log what is most challenging, then perhaps add some dialog when character touches each bookshelf.
 
 I realize I made that big point about an elevator pitch, and I'm nowhere close to it.  Some people have a problem getting beyond the elevator pitch, I have problems making enough of a single point.  Whatever, I think an elaborate logging of these experiences is a good thing, especially if at the end of the road I have something worth a damn.
+
++++++
+
+8/3/2013
+
+I've been practicing with python and the pygame library for a few days now.  
+Really feel good about moving forward with this method.  I'm really starting
+to wrap my head around core competencies in python through praxis.  I've
+also managed to animate sprites by importing glob.
+
+The tutorial I've found most useful so far is a very recent one.  This makes 
+me hopeful that more truly talented pygame users will start sharing their
+expertise:
+ http://www.youtube.com/watch?v=mTmJfWdZzbo 
+[Richard Jones @ PyCon 2013 - March 2013]
+
+I'll include the link to the tutorial that helped with my animation once
+I get to that point in uploading materials.
+
+++++
+
+So right now I'm trying to decide what kind of interface I want.  Pygame 
+instruction I've followed has been very graphical thus far, and I think
+I'm going to have to break a lot of things to figure out how to get an 
+interface that utilizes the graphical capabilities of a pygame library
+with the general ergodic narrative functions of python in-an-of-itself.
+
+I am also battling again with the idea of whether I want to focus so hard
+on Caleb Williams or if I want to do something a little less pointed.
+
+Even though I'm concerned with programming a ludic narrative, the construction
+of an entire novel is very large in scope, and at least at first I think 
+maybe I should do something smaller in scope, streamlined & contained, but
+helpful to me when I'm ready to build something larger.  
+
+Lots of thoughts, but running out of time.  Thats it for now...
