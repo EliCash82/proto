@@ -23,18 +23,9 @@ class Player(pygame.sprite.Sprite):
 
         key = pygame.key.get_pressed()
         if key[pygame.K_LEFT]:
-           # self.rect.x -= 10
             self.rect.x -= 300 * dt
         if key[pygame.K_RIGHT]:
-           # self.rect.x += 10
             self.rect.x += 300 * dt
-       # if key[pygame.K_UP]:
-           # self.rect.y -= 10
-           # self.rect.y -= 300 * dt
-       # if key[pygame.K_DOWN]:
-           # self.rect.y += 10
-           # self.rect.y += 300 * dt
-
         if self.resting and key[pygame.K_SPACE]:
             self.dy = -500
         self.dy = min(400, self.dy + 40)
@@ -66,10 +57,10 @@ class Game(object):
 
         pygame.display.set_caption("Hit SPACEBAR to bounce.")
         
-        #image = pygame.image.load('meWalk/walk1.png')
+        
         background = pygame.image.load('MrWilliamsbg2.png')
         sprites = pygame.sprite.Group()
-        #sprites.add(background)#newish - error prone
+        
         self.player = Player(sprites)
         
         self.walls = pygame.sprite.Group()
@@ -84,7 +75,7 @@ class Game(object):
         
         
         while 1:
-            #clock.tick(40)
+        
             dt = clock.tick(30)
             
             for event in pygame.event.get():
@@ -93,11 +84,10 @@ class Game(object):
                 if event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE:
                     return
 
-            #sprites.update()
-            #sprites.update(dt / 1000.)
+        
             sprites.update(dt / 1000., self)
-            #screen.fill((200, 200, 200))
-            screen.blit(background, (0, 0))# - unsure, could be overstepping
+            
+            screen.blit(background, (0, 0))
             sprites.draw(screen)
             pygame.display.flip()
 
