@@ -142,3 +142,65 @@ maybe I should do something smaller in scope, streamlined & contained, but
 helpful to me when I'm ready to build something larger.  
 
 Lots of thoughts, but running out of time.  Thats it for now...
+
++++
+
+8/20/13
+
+So I've spent a lot of time NOT logging what I've been doing, primarily 
+because I am trying to figure out how I can display a more professional
+looking development journal without having to just type notes into this 
+github page.  Obviously I could just take to tumblr, which would most
+likely be the more intelligent route, but I decided I would tackle 
+django... which has been a very difficult addition to lump onto everything
+else I've been exploring.
+
+Many of my ideas about my project have changed as well, as the semester
+is very close to starting, and I need to have some solid foundations
+to present to my advisors.
+
+I'm not sure if I'm even going to be doing a "Python Game" per say, because
+honestly it seems that I would do better to build a couple very simple apps
+before I take on something as abstract as a game.  
+
+Would it be easy to create a text based game with a very simple engine?
+Yes.  Would it be to the standards of an MA thesis?  I fear it probably would
+not. 
+
+So for my own benefit let me summarize where I was initially vs where I am 
+now:
+
+Originally ----------------+--------------------- Now
+                           +
+PROTO - a ludic explora-   +  ProtoCX (Working title)
+tion of proto sci-fi te-   +  An attempt to create a 
+xts.                       +  1. blog
+                           +  2. wiki
+THEN...                    +  3. SIMPLE app
+                           +
+a ludic exploration of     +  1 & 2: Both will be co-
+single 18th century adv    +  nstructed in a single
+novel, Caleb Williams      +  python inclusive frame-
+                           +  work
+initial tools experime-    +
+nted with:                 +  3: An app I have been
+* Pygame                   +  working on in python
+* Python 2.7               +  I will attempt to imp-
+* emacs                    +  ort into framework of 
+* gedit                    +  1. and 2. / App will
+                           +  store themed metadata
+			   +  about a select collec-
+			   +  tion of public domain
+			   +  literature.
+			   +
+                           +  Initial tools:
+                           +  * Python 2.7
+                           +  * emacs
+                           +  * gedit
+                           +  * Django 1.5
+
+I will go into more detail about the new project intent
+as I move forward.  I think it will be a more valuable
+contribution both to academics and for my own portfolio.
+
+More to come...
